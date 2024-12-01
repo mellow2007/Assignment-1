@@ -8,3 +8,5 @@ This project uses javascript for drop down menu buttons in order to make it easi
 I referenced https://www.galaxy-eyes.de/guide.html and https://www.masterduelmeta.com/articles/guides/punk-royal-smug/ for the layout and some content of the website. 
 I used https://www.duelingbook.com/ to record replays and YGO Omega for images. www.masterduelmeta.com and ygoprodeck.com had additional images I needed. Higher res images from tumblr and deviantart was used.
 
+https://www.figma.com/design/0eRDXIhFTGLHBF3RthWjaA/Asssignment?node-id=0-1&t=KjMmoLVAAoixIw4h-1
+figma link
